@@ -1,0 +1,258 @@
+DEBUG 2019-08-08 15:48:13,081 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-08-08 15:48:13,314 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-08-08 15:48:13,336 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, Abp.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookWebCoreModule, Abp.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookApplicationModule, Abp.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookCoreModule, Abp.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:13,424 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-08-08 15:48:13,622 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:48:13,622 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:48:13,622 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:48:13,622 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:48:14,092 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Abp.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:48:15,255 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-08-08 15:48:15,361 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-08-08 15:48:15,411 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-08-08 15:48:15,435 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-08-08 15:48:15,467 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-08-08 15:48:15,649 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-08-08 15:48:15,798 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-08-08 15:48:15,842 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2019-08-08 15:48:15,842 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-08-08 15:48:15,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-08-08 15:48:15,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-08-08 15:48:15,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-08-08 15:48:15,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-08-08 15:48:15,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-08-08 15:48:15,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-08-08 15:48:15,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-08-08 15:48:23,082 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-08-08 15:48:23,082 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-08-08 15:48:23,119 [10   ] Microsoft.AspNetCore.Server.Kestrel      - Connection id "0HLORQJ4SCJQN" bad request data: "Malformed request: invalid headers."
+Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException: Malformed request: invalid headers.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException.Throw(RequestRejectionReason reason)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.Http1Connection.TryParseRequest(ReadResult result, Boolean& endConnection)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequestsAsync[TContext](IHttpApplication`1 application)
+INFO  2019-08-08 15:48:23,168 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 91.6971ms 200 
+INFO  2019-08-08 15:48:23,443 [12   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:48:26,492 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)
+INFO  2019-08-08 15:48:27,569 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-08-08 15:48:27,578 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 3.0703ms.
+INFO  2019-08-08 15:48:27,711 [10   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-08-08 15:48:27,725 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) in 1228.5303ms
+INFO  2019-08-08 15:48:27,729 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:48:27,743 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-08-08 15:48:27,752 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4678.0388ms 302 
+INFO  2019-08-08 15:48:27,781 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.2988ms 301 
+INFO  2019-08-08 15:48:27,793 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-08-08 15:48:27,998 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 205.517ms 200 text/html
+INFO  2019-08-08 15:48:32,318 [14   ] Microsoft.AspNetCore.Server.Kestrel      - Connection id "0HLORQJ4SCJQM" bad request data: "Malformed request: invalid headers."
+Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException: Malformed request: invalid headers.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException.Throw(RequestRejectionReason reason)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.Http1Connection.TryParseRequest(ReadResult result, Boolean& endConnection)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequestsAsync[TContext](IHttpApplication`1 application)
+DEBUG 2019-08-08 15:49:43,678 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-08-08 15:49:44,213 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-08-08 15:49:44,265 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, Abp.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,270 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookWebCoreModule, Abp.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,271 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookApplicationModule, Abp.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,271 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookCoreModule, Abp.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,271 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,272 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,272 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,273 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,273 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,273 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,274 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,274 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,275 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,275 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,275 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:44,280 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-08-08 15:49:44,457 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:49:44,457 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:49:44,457 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:49:44,458 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:49:45,182 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Abp.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:49:47,321 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-08-08 15:49:47,456 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-08-08 15:49:47,526 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-08-08 15:49:47,572 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-08-08 15:49:47,628 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-08-08 15:49:47,840 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-08-08 15:49:47,964 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-08-08 15:49:48,013 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2019-08-08 15:49:48,013 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-08-08 15:49:48,021 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-08-08 15:49:48,021 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-08-08 15:49:48,022 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-08-08 15:49:48,022 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-08-08 15:49:48,022 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-08-08 15:49:48,022 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-08-08 15:49:48,023 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-08-08 15:49:53,475 [6    ] Microsoft.AspNetCore.Server.Kestrel      - Connection id "0HLORQJVQIAFT" bad request data: "Malformed request: invalid headers."
+Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException: Malformed request: invalid headers.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException.Throw(RequestRejectionReason reason)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.Http1Connection.TryParseRequest(ReadResult result, Boolean& endConnection)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequestsAsync[TContext](IHttpApplication`1 application)
+INFO  2019-08-08 15:49:53,477 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-08-08 15:49:53,534 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.6483ms 200 
+INFO  2019-08-08 15:52:20,552 [21   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-08-08 15:52:20,824 [21   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:52:24,200 [21   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)
+INFO  2019-08-08 15:52:25,221 [21   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-08-08 15:52:25,226 [21   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.1177ms.
+INFO  2019-08-08 15:52:25,507 [7    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-08-08 15:52:25,521 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) in 1312.8553ms
+INFO  2019-08-08 15:52:25,525 [7    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:52:25,557 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5006.2146ms 302 
+INFO  2019-08-08 15:52:25,559 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-08-08 15:52:25,592 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.4593ms 301 
+INFO  2019-08-08 15:52:25,595 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-08-08 15:52:25,786 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 190.674ms 200 text/html
+INFO  2019-08-08 15:52:25,798 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-08-08 15:52:25,801 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-08-08 15:52:25,821 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-08-08 15:52:25,830 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-08-08 15:52:25,831 [16   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-08-08 15:52:25,888 [21   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'F:\DotNet联系\Abp.PhoneBook\4.7.1\aspnet-core\src\Abp.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-08-08 15:52:25,888 [24   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'F:\DotNet联系\Abp.PhoneBook\4.7.1\aspnet-core\src\Abp.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-08-08 15:52:25,891 [21   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.2361ms 200 application/javascript
+INFO  2019-08-08 15:52:25,899 [24   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.693ms 200 application/javascript
+INFO  2019-08-08 15:52:25,905 [19   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-08-08 15:52:25,917 [24   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-08-08 15:52:25,920 [19   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 118.864ms 200 text/css
+INFO  2019-08-08 15:52:25,922 [24   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 94.0284ms 200 application/javascript
+INFO  2019-08-08 15:52:25,930 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-08-08 15:52:25,932 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 131.0612ms 200 application/javascript
+INFO  2019-08-08 15:52:26,198 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-08-08 15:52:26,216 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-08-08 15:52:26,220 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-08-08 15:52:26,223 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 7.3729ms 200 image/png
+INFO  2019-08-08 15:52:26,430 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 232.6211ms 200 application/json;charset=utf-8
+DEBUG 2019-08-08 15:54:57,935 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-08-08 15:54:57,995 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-08-08 15:54:58,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, Abp.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,042 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookWebCoreModule, Abp.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookApplicationModule, Abp.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookCoreModule, Abp.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,044 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,044 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,045 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,045 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,045 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,046 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,046 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,046 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,046 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:58,051 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-08-08 15:54:58,180 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:54:58,180 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:54:58,180 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:54:58,180 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:54:58,893 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Abp.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:54:59,861 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-08-08 15:55:00,009 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-08-08 15:55:00,098 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-08-08 15:55:00,135 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-08-08 15:55:00,188 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-08-08 15:55:00,301 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-08-08 15:55:00,362 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-08-08 15:55:00,460 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2019-08-08 15:55:00,460 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-08-08 15:55:00,474 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-08-08 15:55:00,475 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-08-08 15:55:00,475 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-08-08 15:55:00,476 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-08-08 15:55:00,476 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-08-08 15:55:00,476 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-08-08 15:55:00,478 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-08-08 15:55:06,919 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-08-08 15:55:07,190 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:55:08,651 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)
+INFO  2019-08-08 15:55:09,144 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-08-08 15:55:09,149 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.0595ms.
+INFO  2019-08-08 15:55:09,405 [15   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-08-08 15:55:09,417 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) in 761.1842ms
+INFO  2019-08-08 15:55:09,419 [15   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:55:09,496 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2582.5734ms 302 
+INFO  2019-08-08 15:55:09,502 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-08-08 15:55:09,823 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 320.9959ms 200 text/html
+INFO  2019-08-08 15:55:09,860 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-08-08 15:55:09,887 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-08-08 15:55:09,905 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.js was not modified
+INFO  2019-08-08 15:55:09,905 [15   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.swagger.js was not modified
+INFO  2019-08-08 15:55:09,909 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.0847ms 304 application/javascript
+INFO  2019-08-08 15:55:09,909 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.1344ms 304 application/javascript
+INFO  2019-08-08 15:55:10,360 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-08-08 15:55:10,685 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 325.5153ms 200 application/json;charset=utf-8
+DEBUG 2019-08-08 15:55:46,471 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-08-08 15:55:46,589 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-08-08 15:55:46,611 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, Abp.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookWebCoreModule, Abp.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookApplicationModule, Abp.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.PhoneBookCoreModule, Abp.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,618 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,618 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,619 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,619 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,619 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,619 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,620 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,620 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,620 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:46,624 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-08-08 15:55:46,727 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:55:46,727 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:55:46,727 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:55:46,727 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-08-08 15:55:47,404 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Abp.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, Abp.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-08-08 15:55:48,762 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-08-08 15:55:48,972 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-08-08 15:55:49,070 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-08-08 15:55:49,113 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-08-08 15:55:49,155 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-08-08 15:55:49,483 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-08-08 15:55:49,727 [1    ] rization.Users.UserTokenExpirationWorker - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker
+DEBUG 2019-08-08 15:55:49,779 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2019-08-08 15:55:49,779 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-08-08 15:55:49,788 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-08-08 15:55:49,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Abp.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-08-08 15:55:55,544 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-08-08 15:55:55,544 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-08-08 15:55:55,662 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 128.4126ms 200 
+INFO  2019-08-08 15:55:55,967 [6    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:56:00,189 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)
+INFO  2019-08-08 15:56:01,528 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-08-08 15:56:01,541 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 3.4512ms.
+INFO  2019-08-08 15:56:01,882 [9    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-08-08 15:56:01,904 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host) in 1706.7208ms
+INFO  2019-08-08 15:56:01,908 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.PhoneBook.Web.Host.Controllers.HomeController.Index (Abp.PhoneBook.Web.Host)'
+INFO  2019-08-08 15:56:01,928 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-08-08 15:56:01,933 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6403.4136ms 302 
+INFO  2019-08-08 15:56:02,193 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 264.3106ms 200 text/html
+INFO  2019-08-08 15:56:02,388 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-08-08 15:56:02,648 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 259.1621ms 200 application/json;charset=utf-8
